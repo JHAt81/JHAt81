@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanaka Jhamba
-- 🌱 I’m currently learning Python, Javascript and Responsive Web Development
+- 🌱 I’m currently learning how to develop web applications using Flask
 - 📫 You can contact me on my e-mail tnkjham@gmail.com
 
 <!---
